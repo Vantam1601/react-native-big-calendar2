@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/phpfox-mobile/react-native-big-calendar"
   },
+  "files": [
+    "src/"
+  ],
   "scripts": {
     "prepare": "simple-git-hooks || true",
     "storybook": "start-storybook -p 7007",
